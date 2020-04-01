@@ -37,6 +37,8 @@ The application should:
 - Send http(s) requests to the server, as was done in the CLI.
 - Store all previous requests and related responses from the current session. Allowing users to see what they have sent previously.
 
+Remember that React is used to create **reuseable** components. Think about how to break down a larger component into smaller pieces.
+
 ---
 
 ## Note

@@ -1,3 +1,5 @@
 #!/usr/bin/env npx ts-node
 
-console.log('hello world');
+// Main CLI file...
+
+console.log('hello world!');
