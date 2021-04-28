@@ -1,6 +1,6 @@
 # Odd Positive Integer Average UI
 
-This is a two part project which extends upon the [server](https://github.com/CS-BTurner/odd-positive-integer-average) you created for finding the average of odd positive numbers.
+This is a two part project which extends upon the [server](https://github.com/brplatinum/odd-positive-integer-average) I created for finding the average of odd positive numbers, however I have only focused on the first part, the CLI as the React GUI learning isn't necessary for my WIL project.
 
 ## CLI Utility
 
